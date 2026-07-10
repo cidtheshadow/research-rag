@@ -1,0 +1,5 @@
+question,baseline_answer,baseline_correct,baseline_hallucinated,baseline_tokens,fused_answer,fused_correct,fused_hallucinated,fused_tokens
+What year was the Eiffel Tower completed?,The Eiffel Tower was completed in 1889.,True,False,98,The Eiffel Tower was completed in 1889.,True,False,41
+What is the boiling point of water at sea level in Celsius?,100C,True,False,103,100C,True,False,47
+Who wrote the play 'Hamlet'?,William Shakespeare.,True,False,91,William Shakespeare wrote 'Hamlet'.,True,False,35
+What planet is known as the Red Planet?,Mars.,True,False,93,Mars is known as the Red Planet.,True,False,44
